@@ -175,3 +175,4 @@ cython_debug/
 labs/Gungor_2018_VictorianAuthorAttribution_data-train.csv
 *.txt
 *.csv
+*.pth
